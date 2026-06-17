@@ -1,6 +1,7 @@
 # Computer Science Association (CSA) CET
 
 A responsive landing page for the Computer Science Association at CET.
+Live: https://csa-website-2026.vercel.app/
 
 ## Tech Stack
 - **Framework:** React 18
